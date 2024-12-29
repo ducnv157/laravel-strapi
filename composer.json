@@ -1,5 +1,5 @@
 {
-    "name": "dbfx/laravel-strapi",
+    "name": "ducnv157/laravel-strapi",
     "description": "Laravel wrapper for using the Strapi headless CMS",
     "license": "MIT",
     "keywords": [
@@ -14,9 +14,14 @@
             "name": "Dave Blakey",
             "email": "dave@blakey.co",
             "role": "Developer"
+        },
+        {
+            "name": "Duc",
+            "email": "ducnv157@gmail.com",
+            "role": "Maintain"
         }
     ],
-    "homepage": "https://github.com/dbfx/laravel-strapi",
+    "homepage": "https://github.com/ducnv157/laravel-strapi",
     "require": {
         "php": "^8.0",
         "illuminate/contracts": "^8.37 || ^9.0 || ^10",
